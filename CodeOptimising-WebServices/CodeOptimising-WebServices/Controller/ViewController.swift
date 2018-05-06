@@ -47,7 +47,7 @@ func fetchData() {
     }
     
     
-   // takes time to tech users frpm server  and update on UI as UI here we use tableView for time we use completion handler
+ 
         
     }
     
