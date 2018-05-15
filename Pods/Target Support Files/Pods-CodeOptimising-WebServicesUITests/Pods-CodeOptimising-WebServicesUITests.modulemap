@@ -1,0 +1,6 @@
+framework module Pods_CodeOptimising_WebServicesUITests {
+  umbrella header "Pods-CodeOptimising-WebServicesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
